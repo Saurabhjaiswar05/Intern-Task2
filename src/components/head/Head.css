@@ -1,0 +1,28 @@
+.main{
+    display: flex;
+    justify-content: space-evenly;
+  }
+
+  .left{
+    margin-left: 300px;
+  }
+  
+  .contact{
+    cursor: pointer;
+  }
+  .appMain{
+    display: flex;
+    width: 80%;
+      margin-left: 10%;
+      border: 1px solid rgb(247, 248, 248);
+      border-radius: 10px 10px 10px 10px;
+      box-shadow: 0px 0px 5px 5px rgb(230, 222, 222);
+  }
+  
+  .appMain > h3{
+    padding-left: 150px;
+  }
+  
+  .appMain > label{
+    padding: 0 10px;
+  }

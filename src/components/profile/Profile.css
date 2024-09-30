@@ -1,0 +1,50 @@
+.profileMain{
+    width: 80%;
+    margin-left: 10%;
+    border: 2px solid rgb(221, 210, 210);
+    border-radius: 10px 10px 10px 10px;
+    box-shadow: 0px 0px 10px 10px rgb(230, 222, 222);
+}
+
+.profileSub{
+    text-align: center;
+}
+
+.subForm{
+    display: flex;
+    justify-content: space-evenly;
+}
+
+input{
+    padding: 5px 10px;
+    width: 250px;
+    border: 1px solid rgb(209, 202, 202);
+    border-radius: 6px;
+    outline: none;
+}
+
+.mrgin{
+    margin-bottom: 80px;
+}
+
+.profileBtn{
+    width: 80%;
+    margin-left: 10%;
+    display: flex;
+    justify-content: space-between;
+    margin-top: 25px;
+}
+
+.profileBtn button{
+    padding: 5px 10px;
+    outline: none;
+    border: 1px solid grey;
+    border-radius: 5px;
+    cursor: pointer;
+    margin-bottom: 10px;
+}
+
+.link{
+    color: white;
+    text-decoration: none;
+}
